@@ -772,7 +772,7 @@ actual stack trace; what the browser sees is deliberately sanitized.
 
 ## Author
 
-**Shivam** — extended a Flask + LangChain + Pinecone RAG starting point
+**Ankit** — extended a Flask + LangChain + Pinecone RAG starting point
 with conversational memory (including a real fix for a follow-up-question
 context bug), source citations, cross-encoder reranking, a semantic
 cache, streaming responses, an emergency safety layer, structured
